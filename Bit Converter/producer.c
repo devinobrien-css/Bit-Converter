@@ -1,4 +1,4 @@
-/* Assignment 2 
+/* Bit converter 
  * Title: producer.c
  * Aim: Read in from producerTest.txt file, convert
  *      to binary then write out to test.out.txt
